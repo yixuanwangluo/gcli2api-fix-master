@@ -1,0 +1,13 @@
+fastapi
+httpx[socks]
+pydantic==1.10.22
+python-dotenv
+hypercorn
+aiofiles
+python-multipart
+toml
+PyJWT
+oauthlib
+motor
+redis
+asyncpg
